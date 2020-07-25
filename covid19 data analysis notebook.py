@@ -25,7 +25,7 @@ print('Modules are imported.')
 # In[4]:
 
 
-corona_dataset_csv=pd.read_csv("Datasets/covid19_Confirmed_dataset.csv")
+corona_dataset_csv=pd.read_csv("covid19_Confirmed_dataset.csv")
 corona_dataset_csv.head(20)
 
 
@@ -176,7 +176,7 @@ corona_data.head()
 # In[35]:
 
 
-happiness_report_csv=pd.read_csv("Datasets/worldwide_happiness_report.csv")
+happiness_report_csv=pd.read_csv("worldwide_happiness_report.csv")
 
 
 # In[36]:
